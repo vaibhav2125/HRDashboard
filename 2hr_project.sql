@@ -1,6 +1,8 @@
                                              -- Project : HR Analytics 
 
-objective : Help an organization to improve employee performance to imrove retention (reduce attrition) by creating Hr analytics Dashboard
+-- objective : Help an organization to improve employee performance to imrove retention (reduce attrition) by creating Hr analytics Dashboard
+
+  
 create database hr;
 use hr;
 
